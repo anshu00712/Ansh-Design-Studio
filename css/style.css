@@ -1,10 +1,5 @@
 @charset "utf-8";
-/*======================================
- [ -Main Stylesheet-
-  Theme: Monolit
-  Version: 3.0
-  Last change: 02/08/2023 ]
-*/
+
 /*-------------Import fonts ---------------------------------------*/
 @import url(https://fonts.googleapis.com/css?family=Roboto:600,500,400,300,200,100,400italic,700,900|Muli&subset=latin,vietnamese,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek);
 /*-------------General Style---------------------------------------*/
